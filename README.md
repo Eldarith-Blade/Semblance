@@ -1,4 +1,4 @@
-
+<img src="https://cdn.iconscout.com/icon/free/png-128/hacker-1475678-1251576.png" align="center">
 <h1 align="center">Semblance Development</h1> <br>
 
    <h2 align="center"><i>Web development project for the promotion of a fictional game provided by a non-existent client</i></h2> <br>
