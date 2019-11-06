@@ -4,6 +4,7 @@
 
 <p align="center><i>Licensor grants You a worldwide, royalty-free, non-exclusive, sublicensable license, for the duration of the copyright, to do the following:<i></p>
 
+<p align="center">
 ```
 a) to reproduce the Original Work in copies, either alone or as part of a collective work;
 
@@ -117,3 +118,4 @@ first paragraph above with the notice "Licensed under <insert your license name 
 confusingly similar to the notice in this License; and (iii) You may not claim that your original works are open source software
 unless your Modified License has been approved by Open Source Initiative (OSI) and You comply with its license review and certification process.
 ```
+</p>
