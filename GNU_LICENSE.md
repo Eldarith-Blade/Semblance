@@ -2,13 +2,12 @@
 <h2 align="center">Version 2, June 1991</h2>
 
 <p align="center">
-<blockquote>
  Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-                            <p align="center"><b>Preamble</b></p>
+                            Preamble
 
 The licenses for most software are designed to take away your
 freedom to share and change it.  By contrast, the GNU General Public
