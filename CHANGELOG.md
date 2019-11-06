@@ -122,7 +122,12 @@ notable changes.
 
 ## [0.0.2] - 01-11-2019
 ### Added
-- Explanation of the recommended reverse chronological release ordering.
+- Github setup to continue remotely and increase workflow productivity with
+Atom
+
+### Changed
+
+- Landing Page temporarily removed - Index replacing Landing Page
 
 ## [0.0.1] - 31-10-2019
 ### Added
