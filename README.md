@@ -14,6 +14,6 @@
 
 ## Resources
 
-[Colour Scheme Designer - Colormind AI](http://colormind.io/)
+[Colour Scheme Designer - Colormind AI](http://colormind.io/) ![HTML5 Logo](https://image.flaticon.com/icons/svg/174/174854.svg)
 
 [Hexadecimal Colour Values - HTML Color Codes](https://htmlcolorcodes.com/)
