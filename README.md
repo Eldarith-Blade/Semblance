@@ -5,7 +5,7 @@
 
 ## Framework
 
-* HTML 5 <img src="https://image.flaticon.com/icons/svg/174/174854.svg)" height="64" width="64">
+* HTML 5 <img src="https://image.flaticon.com/icons/svg/174/174854.svg" height="64" width="64">
 * Bootstrap 4
 * Jquery
 * Popper.js
