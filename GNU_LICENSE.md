@@ -8,7 +8,7 @@
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-                            Preamble
+                            <p align="center"><b>Preamble</b></p>
 
 The licenses for most software are designed to take away your
 freedom to share and change it.  By contrast, the GNU General Public
