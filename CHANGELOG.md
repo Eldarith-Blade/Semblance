@@ -118,7 +118,7 @@ notable changes.
 
 ## [0.0.3] - 06-11-2019
 ### Added
-- Markdown documentation for development 
+- Markdown documentation for development
 
 ## [0.0.2] - 01-11-2019
 ### Added
