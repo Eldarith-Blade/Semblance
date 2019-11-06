@@ -14,4 +14,5 @@
 ## Resources 
 
 [Colour Scheme Designer - Colormind AI](http://colormind.io/)
+
 [Hexadecimal Colour Values - HTML Color Codes](https://htmlcolorcodes.com/)
