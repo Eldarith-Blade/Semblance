@@ -122,12 +122,12 @@ notable changes.
 
 ## [0.0.2] - 01-11-2019
 ### Added
-- Github setup to continue remotely and increase workflow productivity with
+- Github set up to continue remotely and increase workflow productivity with
 Atom
 
 ### Changed
 
-- Landing Page temporarily removed - Index replacing Landing Page
+- Landing Page temporarily removed - Index Page replacing Landing Page
 
 ## [0.0.1] - 31-10-2019
 ### Added
