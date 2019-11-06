@@ -116,9 +116,9 @@ create too much noise in the file. People will have to assume that the
 missing sections were intentionally left out because they contained no
 notable changes.
 
-## [0.0.3] - 2014-08-09
+## [0.0.3] - 06-11-2019
 ### Added
-- "Why should I care?" section mentioning The Changelog podcast.
+- Markdown documentation for development 
 
 ## [0.0.2] - 01-11-2019
 ### Added
