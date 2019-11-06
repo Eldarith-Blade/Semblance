@@ -1,4 +1,4 @@
-# Semblance
+# Semblance Development
 
    *Web development project for the promotion of a fictional game provided by a non-existent client*
 
