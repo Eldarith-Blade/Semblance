@@ -1,8 +1,8 @@
-# Academic Free License v3.0
+<h1 align="center">Academic Free License v3.0</h1>
 
-**Grant of Copyright License**
+<p align="center"><b>Grant of Copyright License<b></p>
 
-*Licensor grants You a worldwide, royalty-free, non-exclusive, sublicensable license, for the duration of the copyright, to do the following:*
+<p align="center><i>Licensor grants You a worldwide, royalty-free, non-exclusive, sublicensable license, for the duration of the copyright, to do the following:<i></p>
 
 ```
 a) to reproduce the Original Work in copies, either alone or as part of a collective work;
