@@ -6,12 +6,7 @@
 ## Framework
 
 <ul>
- <li>HTML 5</li><img src="https://image.flaticon.com/icons/svg/174/174854.svg" height="32" width="32"> <br>
- <li>HTML 5</li><img src="https://image.flaticon.com/icons/svg/174/174854.svg" align="center" height="32" width="32"> <br>
- <li>HTML 5</li><img src="https://image.flaticon.com/icons/svg/174/174854.svg" align="center" height="32" width="32"> <br>
- <li>HTML 5</li><img src="https://image.flaticon.com/icons/svg/174/174854.svg" align="center" height="32" width="32"> <br>
- <li>HTML 5</li><img src="https://image.flaticon.com/icons/svg/174/174854.svg" align="center" height="32" width="32"> <br>
- <li>HTML 5</li><img src="https://image.flaticon.com/icons/svg/174/174854.svg" align="center" height="32" width="32"> <br>
+ <li>HTML 5 &nbsp</li><img src="https://image.flaticon.com/icons/svg/174/174854.svg" height="32" width="32"> </li>
 * Bootstrap 4
 * Jquery
 * Popper.js
