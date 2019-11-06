@@ -1,17 +1,17 @@
-# Semblance Development
+###                                     Semblance Development
 
    *Web development project for the promotion of a fictional game provided by a non-existent client*
 
-## Framework 
+## Framework
 
-* HTML 5 
+* HTML 5
 * Bootstrap 4
-* Jquery 
+* Jquery
 * Popper.js
 * Particles.js
-* CSS3 
+* CSS3
 
-## Resources 
+## Resources
 
 [Colour Scheme Designer - Colormind AI](http://colormind.io/)
 
