@@ -1,6 +1,6 @@
-###                                     Semblance Development
+<h1 align="center">Semblance Development</h1>
 
-   *Web development project for the promotion of a fictional game provided by a non-existent client*
+   <h2 align="center"><i>Web development project for the promotion of a fictional game provided by a non-existent client</i></h2> 
 
 ## Framework
 
