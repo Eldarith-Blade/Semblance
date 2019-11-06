@@ -5,7 +5,7 @@
 
 ## Framework
 
-* HTML 5
+* HTML 5 <img src="https://image.flaticon.com/icons/svg/174/174854.svg)" alt="HTML 5 LOGO" height="64" width="64"/>
 * Bootstrap 4
 * Jquery
 * Popper.js
@@ -14,6 +14,6 @@
 
 ## Resources
 
-[Colour Scheme Designer - Colormind AI](http://colormind.io/) ![HTML5 Logo](https://image.flaticon.com/icons/svg/174/174854.svg)
+[Colour Scheme Designer - Colormind AI](http://colormind.io/)
 
 [Hexadecimal Colour Values - HTML Color Codes](https://htmlcolorcodes.com/)
