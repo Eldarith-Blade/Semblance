@@ -6,13 +6,14 @@
 ## Framework
 
 <ul>
- <li>HTML 5 &nbsp&nbsp&nbsp<img src="https://image.flaticon.com/icons/svg/174/174854.svg" height="32" width="32"> </li> <br>
- <li>Bootstrap 4 &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" height="32" width="32"> </li> <br>
- <li>Jquery &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/free/png-128/jquery-10-1175155.png" height="32" width="32"> </li> <br>
- <li>Popper.js &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/javascript-22-625241.png" height="32" width="32"> </li> <br>
- <li>Particles.js &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/javascript-22-625241.png" height="32" width="32"> </li> <br>
- <li>CSS3 &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" height="32" width="32"> </li> <br>
- <li>SASS &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/free/png-128/sass-226054.png" height="32" width="32"> </li> <br>
+ <li><b>HTML 5</b> &nbsp&nbsp&nbsp<img src="https://image.flaticon.com/icons/svg/174/174854.svg" height="32" width="32"> </li> <br>
+ <li><b>Bootstrap 4<b/> &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" height="32" width="32"> </li> <br>
+ <li><b>Jquery</b> &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/free/png-128/jquery-10-1175155.png" height="32" width="32"> </li> <br>
+ <li><b>Popper.js</b> &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/javascript-22-625241.png" height="32" width="32"> </li> <br>
+ <li><b>Particles.js</b> &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/javascript-22-625241.png" height="32" width="32"> </li> <br>
+ <li><b>Node.js</b> &nbsp&nbsp&nbsp<img src="https://image.flaticon.com/icons/svg/919/919825.svg" height="32" width="32"> </li> <br>
+ <li><b>CSS3</b> &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" height="32" width="32"> </li> <br>
+ <li><b>SASS</b> &nbsp&nbsp&nbsp<img src="https://cdn.iconscout.com/icon/free/png-128/sass-226054.png" height="32" width="32"> </li> <br>
 </ul>
 
 ## Resources
