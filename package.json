@@ -1,0 +1,25 @@
+{
+  "name": "semblance",
+  "version": "1.0.0",
+  "description": "*Web development project for the promotion of a fictional game provided by a non-existent client*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryathi/Semblance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryathi/Semblance/issues"
+  },
+  "homepage": "https://github.com/Ryathi/Semblance#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0",
+    "tether": "^1.4.7"
+  }
+}
