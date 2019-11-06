@@ -6,7 +6,7 @@
 ## Framework
 
 <ul>
- <li>HTML 5 <img src="https://image.flaticon.com/icons/svg/174/174854.svg" height="32" width="32"></li> <br> 
+ <li align="center">HTML 5 <img src="https://image.flaticon.com/icons/svg/174/174854.svg" height="32" width="32"></li> <br> 
 * Bootstrap 4
 * Jquery
 * Popper.js
