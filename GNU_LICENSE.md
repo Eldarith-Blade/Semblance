@@ -1,5 +1,5 @@
-               <h1 align="center">GNU GENERAL PUBLIC LICENSE</h1>
-                  <h2 align="center">Version 2, June 1991</h2>
+<h1 align="center">GNU GENERAL PUBLIC LICENSE</h1>
+<h2 align="center">Version 2, June 1991</h2>
 
 <p align="center">
 <blockquote>
