@@ -2,6 +2,7 @@
 <h2 align="center">Version 2, June 1991</h2>
 
 <p align="center">
+<blockquote>
  Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
  Everyone is permitted to copy and distribute verbatim copies
@@ -338,5 +339,5 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
-
+</blockquote> 
 </p>
