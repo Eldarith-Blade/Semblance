@@ -4,7 +4,7 @@ const browserSync = require('browser-sync').create();
 
 //compile scss into css
 function style() {
-    return gulp.src('source/scss/*.scss')
+    return gulp.src(['node_modules/bootstrap/scss/bootstrap.scss', 'source/scss/*.scss'])
     .pipe(sass().on('error',sass.logError))
     .pipe(gulp.dest('source/css'))
     .pipe(browserSync.stream());
@@ -32,4 +32,4 @@ function watch() {
 }
 exports.style = style;
 exports.watch = watch;
-exports.compileJS = compileJS; 
+exports.compileJS = compileJS;
