@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "*Web development project for the promotion of a fictional game provided by a non-existent client*",
   "main": "index.js",
-  "scripts": {
+  "scripts":  {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,13 +18,13 @@
   "homepage": "https://github.com/Ryathi/Semblance#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.0",
     "tether": "^1.4.7"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
-    "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2"
   }
 }
