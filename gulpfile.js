@@ -18,7 +18,7 @@ function compileJS() {
 }
 
 
-//reload browser
+//serve files to local host and update browser
 function watch() {
     browserSync.init({
         server: {
