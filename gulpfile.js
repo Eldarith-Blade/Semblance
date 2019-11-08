@@ -1,6 +1,8 @@
 const gulp = require('gulp');
 const sass = require('gulp-sass');
 const browserSync = require('browser-sync').create();
+const  gulpOpen = require('gulp-open');
+const os = require('os');
 
 //compile scss into css for Bootstrap customisation
 function style() {
@@ -38,6 +40,8 @@ function watch() {
     gulp.watch('./*.html').on('change',browserSync.reload);
     gulp.watch('./js/*.js').on('change', browserSync.reload);
 }
+
+
 exports.style = style;
 exports.watch = watch;
 exports.compileJS = compileJS;
