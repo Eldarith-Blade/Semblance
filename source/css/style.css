@@ -1,6 +1,0 @@
-.navbar {
-  width: 100vw;
-  background: none !important; }
-  @media (max-width: 34em) {
-    .navbar {
-      background: black !important; } }

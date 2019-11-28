@@ -1,0 +1,82 @@
+//Modular navigation bar stylesheet for use across all pages
+.navbar {
+  z-index: 1000;
+  width: 100vw;
+  background: none !important;
+  font-size: 32px !important;
+  overflow-x: hidden;
+  .navbar-brand {
+    font-family: Montserrat !important;
+    font-weight: bold;
+  }
+  .current {
+    color: #ffaf1a !important;
+    font-size: 36px !important;
+    }
+  }
+  .icon-bar {
+    width: 36px;
+    height: 2px;
+    background-color: #f4f5e2;
+    display: block;
+    transition: all 0.2s;
+    margin-top: 4px;
+    padding: 2px;
+    justify-content: center;
+    border-radius: 20px;
+  }
+  @media(max-width: 34em) {
+    background: #000000 !important;
+    position: fixed;
+    }
+  .navbar-toggler {
+    cursor: pointer;
+    outline: 0;
+    border: none !important;
+    background: transparent !important;
+
+  }
+  .nav-link {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: consolas !important;
+    transition-duration: 500ms;
+  }
+  .nav-item {
+    padding: 0 1rem;
+     a:hover {
+      color: #ffaf1a !important;
+      font-size: 36px !important;
+      -webkit-text-stroke: 1px #fb9500;
+      transition: 500ms;
+    }
+    @media(max-width: 60em) {
+      padding: 0.5rem 0;
+      a:hover {
+        color: #ffaf1a !important;
+        font-size: 36px !important;
+        -webkit-text-stroke: 1px #fb9500;
+        transition: 500ms;
+      }
+    }
+    @media(max-width: 34em) {
+      padding: 0.5rem 0;
+      a:hover {
+        color: #e7e8d5 !important;
+        font-size: 36px !important;
+        -webkit-text-stroke: 1px #fffffc !important;
+        transition: 500ms;
+      }
+    }
+  .nav-link {
+    @media(max-width: 60em) {
+        font-weight: normal !important;
+        font-family: consolas !important;
+    }
+    @media(max-width: 34em) {
+        font-weight: normal !important;
+        color: #f4f5e2 !important;
+        font-family: consolas !important;
+      }
+    }
+  }
