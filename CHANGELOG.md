@@ -169,6 +169,7 @@ All notable changes to this project will be documented in this file.
 - navigation assets
 - prototyping assets
 
+[Released]: https://github.com/Ryathi/Semblance/compare/v1.0.0...HEAD
 [Unreleased]: https://github.com/Ryathi/Semblance/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/Ryathi/Semblance/compare/v0.3.0...v1.0.0
 [0.1.9]: https://github.com/Ryathi/Semblance/compare/v0.2.0...v0.3.0
