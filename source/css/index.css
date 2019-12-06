@@ -22,14 +22,21 @@ body {
 .content-wrapper {
   background-color: 1a1b1d;
   background-image: url("assets/Background_Intro_Cover.png");
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat; }
 
 .review-wrapper {
   background-color: 1a1b1d;
   background-image: url("assets/Background_Review_Cover.png");
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat; }
+  @media (max-width: 60em) {
+    .review-wrapper {
+      background: #000000; } }
+
+.link-container {
+  border: 3px solid #fb9500;
+  box-shadow: 10px 0px 10px #fb9500; }
 
 @media (max-width: 34em) {
   #carousel-gaming {
@@ -50,7 +57,7 @@ body {
   background-color: #fb9500; }
 
 .social {
-  font-family: Lucida Bright;
+  font-family: Montserrat;
   color: #e7e8d5 !important; }
 
 .disc {

@@ -11,7 +11,7 @@ on the screen. Navigation links float into the screen from without the boundarie
 as the overflow is hidden - logo is pulled into the screen from the opposite direction.)*/
 tlMax.fromTo(bootCollapse, 1.2, {x: "150%"}, {x: "0%", ease: Power2.easeInOut})
 .fromTo(bootLogo, 1.2, {x: "-150%"}, {x: "0%", ease: Power2.easeInOut}, "-=1.2");
-//If the hero content isn't available, ignore on other webpages as console will produce an error. 
+//If the hero content isn't available, ignore on other webpages as console will produce an error.
 if(bootContent) {
 tlMax.fromTo(bootContent, 2, {y: "-150%"}, {y: "0%", ease: Power2.easeInOut}, "-=0.8");
 }
