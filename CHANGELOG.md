@@ -1,12 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
-## [released]
+## [Released]
 
 ## [1.0.0] - 29-11-2019
 
 - website is ready to be deployed with maintanence in-place
 - website still needs features to be added after deadline
-- agreed deadline extension 
+- agreed deadline extension
 
 
 ## [Unreleased]
