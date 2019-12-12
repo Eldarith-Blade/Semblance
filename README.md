@@ -30,10 +30,10 @@ Node.js documentation: [https://nodejs.org/api/documentation.html](https://nodej
 First download [Node.js](https://nodejs.org/en/) and then open up the Command Line Interface(CLI):
 
 Check that your Node Package Manager is up to date by typing this command in the CLI: <br><br>
-`$npm npm i -g npm` <br><br>
+### `$npm npm i -g npm` <br><br>
 
 Next install the github download package: <br><br>
-`$npm npm i -g download-git-repo` <br><br>
+### `$npm npm i -g download-git-repo` <br><br>
 
 ## Resources
 
