@@ -20,16 +20,16 @@
 
 To continue developing this website, a developer must have knowledge about Bootstrap, Javascript libraries, Node.js package manager, and general SASS syntax and compiling.
 
-Bootstrap documentation: [https://getbootstrap.com/docs/4.1/getting-started/introduction/](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-GSAP documentation: [https://greensock.com/docs/](https://greensock.com/docs/)
-SASS documentation: [https://sass-lang.com/documentation](https://sass-lang.com/documentation)
-Node.js documentation: [https://nodejs.org/api/documentation.html](https://nodejs.org/api/documentation.html)
+Bootstrap documentation: [https://getbootstrap.com/docs/4.1/getting-started/introduction/](https://getbootstrap.com/docs/4.1/getting-started/introduction/)<br>
+GSAP documentation: [https://greensock.com/docs/](https://greensock.com/docs/)<br>
+SASS documentation: [https://sass-lang.com/documentation](https://sass-lang.com/documentation)<br>
+Node.js documentation: [https://nodejs.org/api/documentation.html](https://nodejs.org/api/documentation.html)<br>
 
-##Getting started
+## Getting started
 
 First download [Node.js](https://nodejs.org/en/) and then open up the Command Line Interface(CLI):
 
-Check that your Node Package Manager is up to date by typing this command in the CLI:
+Check that your Node Package Manager is up to date by typing this command in the CLI: <br>
 `$npm npm i -g npm`
 
 ## Resources
