@@ -18,7 +18,7 @@
 
 ## Prerequisites
 
-To continue developing this website, a developer must have knowledge about Bootstrap, Javascript libraries, Node.js package manager, and general SASS syntax and compiling.
+<b>To continue developing this website, a developer must have knowledge about Bootstrap, Javascript libraries, Node.js package manager, and general SASS syntax and compiling.
 
 Bootstrap documentation: [https://getbootstrap.com/docs/4.1/getting-started/introduction/](https://getbootstrap.com/docs/4.1/getting-started/introduction/)<br>
 GSAP documentation: [https://greensock.com/docs/](https://greensock.com/docs/)<br>
@@ -32,8 +32,9 @@ First download [Node.js](https://nodejs.org/en/) and then open up the Command Li
 Check that your Node Package Manager is up to date by typing this command in the CLI: <br><br>
 #### `$npm npm i -g npm` <br><br>
 
-Next install the github download package: <br><br>
-#### `$npm npm i -g download-git-repo` <br><br>
+Next step is to install the [Git Bash](https://gitforwindows.org/) for retrieving repositories for <br>local work or add the addition of a pull request for features based on collaborators assigned. <br></b> 
+
+
 
 ## Resources
 
