@@ -32,7 +32,7 @@ First download [Node.js](https://nodejs.org/en/) and then open up the Command Li
 Check that your Node Package Manager is up to date by typing this command in the CLI: <br><br>
 #### `$npm npm i -g npm` <br><br>
 
-Next step is to install the [Git Bash](https://gitforwindows.org/) for retrieving repositories for <br>local work or add the addition of a pull request for features based on collaborators assigned. <br></b> 
+Next step is to install the [Git Bash](https://gitforwindows.org/) for retrieving repositories for <br>local work or add the addition of a pull request for features based on collaborators assigned. <b> 
 
 
 
