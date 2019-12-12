@@ -37,15 +37,15 @@ Next step is to install the [Git Bash](https://gitforwindows.org/) for retrievin
 Once Git Bash is installed, open the CLI and change the current directory to desired installation location of the repository<br><br>
 
 To view the current directory use: <br><br>
-####`$ dir`  <br>
+#### `$ dir`  <br>
 This will list the current directory that you are in - to create a folder in the directory use: <br>
-####`$ mkdir` <br>
+#### `$ mkdir` <br>
 and finally once the desired directory is found or made, then you must change to that directory using: <br>
-####`$ cd path/folder` <br>
+#### `$ cd path/folder` <br>
 To go backwards in the directory use: <br>
-####`$ .` <br>
+#### `$ .` <br>
 Move to root: <br>
-####`$ ..` <br>
+#### `$ ..` <br>
 
 
 
