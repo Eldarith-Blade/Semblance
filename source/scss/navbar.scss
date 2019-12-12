@@ -2,7 +2,7 @@
 .navbar {
   z-index: 1000;
   width: 100vw;
-  background: none !important;
+  background: none;
   font-size: 32px !important;
   overflow-x: hidden;
   .navbar-brand {
@@ -25,9 +25,8 @@
     justify-content: center;
     border-radius: 20px;
   }
-  @media(max-width: 34em) {
-    background: #000000 !important;
-    position: fixed;
+  @media(max-width: 36em) {
+    background: #000000;
     }
   .navbar-toggler {
     cursor: pointer;
