@@ -32,7 +32,20 @@ First download [Node.js](https://nodejs.org/en/) and then open up the Command Li
 Check that your Node Package Manager is up to date by typing this command in the CLI: <br><br>
 #### `$npm npm i -g npm` <br><br>
 
-Next step is to install the [Git Bash](https://gitforwindows.org/) for retrieving repositories for <br>local work or add the addition of a pull request for features based on collaborators assigned. <b> 
+Next step is to install the [Git Bash](https://gitforwindows.org/) for retrieving repositories for <br>local work or add the addition of a pull request for features based on collaborators assigned.<br><br>
+
+Once Git Bash is installed, open the CLI and change the current directory to desired installation location of the repository<br><br>
+
+To view the current directory use: <br><br>
+####`$ dir`  <br>
+This will list the current directory that you are in - to create a folder in the directory use: <br>
+####`$ mkdir` <br>
+and finally once the desired directory is found or made, then you must change to that directory using: <br>
+####`$ cd path/folder` <br>
+To go backwards in the directory use: <br>
+####`$ .` <br>
+Move to root: <br>
+####`$ ..` <br>
 
 
 
