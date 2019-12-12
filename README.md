@@ -36,7 +36,7 @@ Next step is to install the [Git Bash](https://gitforwindows.org/) for retrievin
 
 Once Git Bash is installed, open the CLI and change the current directory to desired installation location of the repository<br><br>
 
-To view the current directory use: <br><br>
+To view the current directory use: <br>
 #### `$ dir`  <br>
 This will list the current directory that you are in - to create a folder in the directory use: <br>
 #### `$ mkdir` <br>
@@ -48,7 +48,10 @@ Move to root: <br>
 #### `$ ..` <br><br>
 
 After all the initial setup is done and you're in the desired directory, then use:
-#### `git clone https://github.com/Ryathi/Semblance`
+#### `git clone https://github.com/Ryathi/Semblance`<br><br>
+
+You may now close Git Bash and reopen Node.js CLI to continue with developing the website. Using similar commands as before, navigate to the folder directory of the Github Repository until your command-line replicates this: <br>
+#### `C:/Users/Name/Path/Path/Semblance`<br><br> 
 
 
 
