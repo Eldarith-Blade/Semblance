@@ -51,7 +51,22 @@ After all the initial setup is done and you're in the desired directory, then us
 #### `git clone https://github.com/Ryathi/Semblance`<br><br>
 
 You may now close Git Bash and reopen Node.js CLI to continue with developing the website. Using similar commands as before, navigate to the folder directory of the Github Repository until your command-line replicates this: <br>
-#### `C:/Users/Name/Path/Path/Semblance`<br><br> 
+#### `C:/Users/Name/Path/Path/Semblance`<br><br>
+
+## Automation
+
+This project utilises [Gulp](https://gulpjs.com/) automation via Javascript custom functions for certain tasks<br>
+
+### SASS pipeline
+
+If you're using the SASS(SCSS) files, then they need to be compiled into a suitable format for the browser (.CSS), and to do this, you will type the command in the current directory: <br>
+
+For the mainStyle: <br>
+#### `$gulp mainStyle` <br>
+For Index: <br>
+#### `$gulp home` <br>
+For Navigation bar:
+#### `$gulp navbar` <br><br>
 
 
 
