@@ -18,7 +18,9 @@
 
 ## Prerequisites
 
-<b>To continue developing this website, a developer must have knowledge about Bootstrap, Javascript libraries, Node.js package manager, and general SASS syntax and compiling.
+To continue developing this website, a developer must have knowledge about Bootstrap, Javascript libraries, Node.js package manager, and general SASS syntax and compiling. <br>
+
+Every .js, .html, and .scss files contain extensive comments to help a developer further understand the functionality or usage.
 
 Bootstrap documentation: [https://getbootstrap.com/docs/4.1/getting-started/introduction/](https://getbootstrap.com/docs/4.1/getting-started/introduction/)<br>
 GSAP documentation: [https://greensock.com/docs/](https://greensock.com/docs/)<br>
@@ -68,7 +70,13 @@ For Index: <br>
 For Navigation bar:
 #### `$gulp navbar` <br><br>
 
+To upload the website to simulate a server using the localhost as well as automatic reload of browser to visually see the website use: <br>
+#### `$gulp watch` <br>
+Functionality of 'watch' is slightly broken currently due to being refactored from old code to align with newer Gulp guideline standards. Use 'Ctrl + C' to exit the loop of live browsing. <br><br>
 
+## File transfer protocol (FTP)
+
+The project currently uses [Filezilla](https://filezilla-project.org/) to upload files to the server. 
 
 ## Resources
 
